@@ -1,1 +1,5 @@
 20news*
+.idea
+*.iml
+*.data
+__pycache__
